@@ -2,7 +2,7 @@
 
 document.write('\
 \
-<h2>Start with simple animation </h2> \
+<h2>Simple animation of falling circle </h2> \
 \
 <p class="post-info"> \
 Posted by <a href="http://github.com/odestcj">odestcj</a>  \
