@@ -23,8 +23,6 @@ document.write('\
 			<h3>Primary Contributors</h3> \
 \
 				<p>Chad Jenkins / <a href="http://github.com/odestcj"><strong>odestcj</strong></a></p> \
-				<p>John Raiti / <a href="http://github.com/JGRBiomed">JGRBiomed</a></p> \
-				<p>Alice Fawzi / <a href="http://github.com/alicef">alicef</a></p> \
 				<p>Morgan Jenkins / <a href="http://scratch.mit.edu/users/morgan_epo_style/">morgan_epo_style</a></p> \
 \
 		</div>		\
