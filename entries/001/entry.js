@@ -17,7 +17,7 @@ Posted by <a href="http://github.com/odestcj">odestcj</a> \
 \
 <iframe\
   style="width: 100%; height: 500px"\
-  src="http://jsfiddle.net/odestcj/PUFet/embedded/result,js/">\
+  src="http://jsfiddle.net/odestcj/PUFet/25/embedded/result,js/">\
 </iframe>\
 \
 ');
