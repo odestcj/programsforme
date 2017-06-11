@@ -19,7 +19,7 @@ Posted by <a href="http://github.com/odestcj">odestcj</a> \
 \
 <iframe\
   style="width: 100%; height: 500px"\
-  src="https://dl.dropboxusercontent.com/u/14050575/projects/kachow/pants/play.html?pants">\
+  src="https://odestcj.github.io/kachow/play.html?pants">\
 </iframe>\
 \
 ');
